@@ -1,5 +1,23 @@
-ls = list
-pwd = tells you where you are
-.. = up one folder
-cd = change diretory
+No Spaces EVER!!!
+Tab			=	Tab complete
+double Tab		=	what are my options?
+
+--help			=	help!!!
+clear			=	clear!!!
+ls			=	list
+pwd			=	tells you where you are
+..			=	up 1 folder (directory)
+../..			=	up 2 folders (directories)
+cd			=	change directory
+~			=	home directory (Users)
+mkdir			=	make directory
+mv			=	move
+cp			=	copy
+rm			=	remove (not recycle bin!!!) Dangerous!!!
+echo			=	repeat back to me
+cat			=	read out or print for me
+Nano "file name".txt	=	creates new notebook and opens it
+touch "file name"	=	just creates a file that could be a notebook
+head			=	defaults to 10 lines from top
+tail			=	defaults to 10 lines from bottom
 
