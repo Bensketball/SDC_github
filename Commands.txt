@@ -1,23 +1,39 @@
 No Spaces EVER!!!
+All codes can be used together in ways to get what you would like.  They can build on one another like the German language!
+
 Tab			=	Tab complete
-double Tab		=	what are my options?
+double Tab		=	what are my options for tab complete?
 
 --help			=	help!!!
-clear			=	clear!!!
+clear			=	clears everything!
 ls			=	list
 pwd			=	tells you where you are
 ..			=	up 1 folder (directory)
 ../..			=	up 2 folders (directories)
 cd			=	change directory
-~			=	home directory (Users)
+~			=	home directory (Users for Windows)
 mkdir			=	make directory
 mv			=	move
 cp			=	copy
-rm			=	remove (not recycle bin!!!) Dangerous!!!
+rm			=	remove (not recycle bin!!! Gone forever!!! Dangerous!!!)
 echo			=	repeat back to me
-cat			=	read out or print for me
+cat			=	read out or print file for me
 Nano "file name".txt	=	creates new notebook and opens it
-touch "file name"	=	just creates a file that could be a notebook
+touch "file name"	=	just creates a file that could become a notebook when opened
 head			=	defaults to 10 lines from top
 tail			=	defaults to 10 lines from bottom
+| (or pipe)		=	Used as a separator
+sort			=	sorts by first row and A-Z by default
+sort -r			=	sorts by first row and but Z-A
+cut			=	cuts a row out of a table (.txt .csv ...)
+wc			=	word count -l (lines) -w (words) or -_ (bytes)
+grep			=	Works like V-Lookup in Excel
+
+git init		=	Create repository from none, maybe?
+git pull		=	
+git status		=	
+git commit 		=	
+git add			=	
+git push		=	
+
 
